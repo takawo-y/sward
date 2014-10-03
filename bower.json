@@ -18,6 +18,13 @@
   ],
   "dependencies": {
     "angular": "~1.2.26",
-    "bootstrap": "~3.2.0"
+    "bootstrap": "~3.2.0",
+    "jquery": "~2.1.1",
+    "fullcalendar": "~2.1.1",
+    "chosen": "https://github.com/harvesthq/chosen/releases/download/v1.1.0/chosen_v1.1.0.zip",
+    "colorbox": "~1.5.14",
+    "responsive-tables": "*",
+    "bootstrap-tour": "~0.9.3",
+    "moment": "~2.8.3"
   }
 }
